@@ -1,10 +1,6 @@
 # LTLoc
 
-
-
-
-
-
+**Beyond Pure Geometry: An Uncertainty-Driven Perspective on Long-Term LiDAR Localization**
 
 | ![image-20250311031928194](./README/image-20250311031928194.png) | ![image-20250311031948487](./README/image-20250311031948487.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
